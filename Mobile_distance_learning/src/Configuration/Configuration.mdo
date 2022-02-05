@@ -7,15 +7,15 @@
   </synonym>
   <synonym>
     <key>de</key>
-    <value>Mein nächstes Level</value>
+    <value>Mobiles Fernstudium</value>
   </synonym>
   <synonym>
     <key>ru</key>
-    <value>Мой следующий уровень</value>
+    <value>Мобильное дистанционное обучение</value>
   </synonym>
   <synonym>
     <key>uk</key>
-    <value>Мій наступний рівень</value>
+    <value>Мобільне дистанційне навчання</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4a1f3459-afed-4909-8f2f-4d37b92d3393"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="646010f5-30f7-4c9a-882e-34871fd3e85b"/>
@@ -43,34 +43,38 @@
     <value>Mobile distance learning</value>
   </briefInformation>
   <briefInformation>
-    <key>uk</key>
-    <value>Мій наступний рівень</value>
+    <key>de</key>
+    <value>Mobiles Fernstudium</value>
   </briefInformation>
   <briefInformation>
     <key>ru</key>
-    <value>Мой следующий уровень</value>
+    <value>Мобильное дистанционное обучение</value>
+  </briefInformation>
+  <briefInformation>
+    <key>uk</key>
+    <value>Мобільне дистанційне навчання</value>
   </briefInformation>
   <detailedInformation>
     <key>en</key>
-    <value>mobile app: My next level; 
+    <value>mobile app: Mobile distance learning; 
 platform https://1c-dn.com/download-trial/; 
 development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
   </detailedInformation>
   <detailedInformation>
     <key>de</key>
-    <value>mobile app: My next level; 
+    <value>mobile app: Mobiles Fernstudium; 
 platform https://1c-dn.com/download-trial/; 
 development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
   </detailedInformation>
   <detailedInformation>
     <key>ru</key>
-    <value>mobile app: My next level; 
+    <value>mobile app: Mobile distance learning; 
 platform https://1c-dn.com/download-trial/; 
 development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
   </detailedInformation>
   <detailedInformation>
     <key>uk</key>
-    <value>mobile app: My next level; 
+    <value>mobile app: Мобільне дистанційне навчання; 
 platform https://1c-dn.com/download-trial/; 
 development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
   </detailedInformation>
@@ -109,19 +113,19 @@ development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tool
   </vendorInformationAddress>
   <configurationInformationAddress>
     <key>en</key>
-    <value>https://github.com/kzavrazhnyi/edt</value>
+    <value>https://github.com/kzavrazhnyi/Mobile-distance-learning/</value>
   </configurationInformationAddress>
   <configurationInformationAddress>
     <key>de</key>
-    <value>https://github.com/kzavrazhnyi/edt</value>
+    <value>https://github.com/kzavrazhnyi/Mobile-distance-learning/</value>
   </configurationInformationAddress>
   <configurationInformationAddress>
     <key>ru</key>
-    <value>https://github.com/kzavrazhnyi/edt</value>
+    <value>https://github.com/kzavrazhnyi/Mobile-distance-learning/</value>
   </configurationInformationAddress>
   <configurationInformationAddress>
     <key>uk</key>
-    <value>https://github.com/kzavrazhnyi/edt</value>
+    <value>https://github.com/kzavrazhnyi/Mobile-distance-learning/</value>
   </configurationInformationAddress>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
