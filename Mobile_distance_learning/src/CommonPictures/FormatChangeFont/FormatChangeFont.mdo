@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3e8cf52e-9b96-44b6-aaa0-22031d3b2e64">
+  <name>FormatChangeFont</name>
+  <synonym>
+    <key>en</key>
+    <value>Format change font</value>
+  </synonym>
+</mdclass:CommonPicture>

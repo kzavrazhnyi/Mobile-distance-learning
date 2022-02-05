@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c77052a4-2917-480b-b709-7e04469bebac">
+  <producedTypes>
+    <objectType typeId="4eb56773-da73-4ed8-8ea9-f3ffeae601c0" valueTypeId="57d7573b-68e0-415d-bfd2-ad3163c39713"/>
+    <refType typeId="c731fd2b-58c2-446c-b491-a4f997c4f48f" valueTypeId="0f0fcd28-b076-4ac7-a286-b29e80f752f9"/>
+    <selectionType typeId="d68a0899-0ed3-4682-bbe8-f5b56cf49452" valueTypeId="ded94845-8b93-4620-8bda-d5dadc42bd22"/>
+    <listType typeId="33486943-4b8e-46a8-a213-14ba8673537e" valueTypeId="a84994dd-39c6-4e54-ac07-b1c8e9653e58"/>
+    <managerType typeId="3b2d146e-1cc3-4e8e-941d-65a6019a979f" valueTypeId="31d4119b-c20c-4bce-ba33-b8646fa1e72a"/>
+  </producedTypes>
+  <name>Files</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Files.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Files.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>10</codeLength>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="b35fb42e-933b-4eba-83a1-e8429581f044">
+    <name>Master</name>
+    <type>
+      <types>CatalogRef.Masters</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="ed0b8004-117e-4996-973d-2d52b4443bbf">
+    <name>Level</name>
+    <type>
+      <types>CatalogRef.Levels</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="9a7d2deb-d196-41fd-83b6-0227d213d690">
+    <name>Number</name>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="bf6e6fc1-5ec4-402f-87ad-e3b40895dc91">
+    <name>MainFile</name>
+    <type>
+      <types>CatalogRef.Files</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="1778c040-6035-4c52-a754-0e33928e75f5">
+    <name>MainFileCode</name>
+    <synonym>
+      <key>en</key>
+      <value>Main file code</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="3a7cdd5b-a742-4033-b3de-21e12d7dd046">
+    <name>StringHyperlink</name>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>512</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

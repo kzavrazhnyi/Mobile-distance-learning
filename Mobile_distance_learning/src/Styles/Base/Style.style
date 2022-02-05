@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style:Style xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:style="http://g5.1c.ru/v8/dt/style">
+  <items xsi:type="style:ColorStyleItem">
+    <name>ActivityColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>250</red>
+      <green>195</green>
+      <blue>113</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>AccentColor</name>
+    <color xsi:type="core:ColorDef">
+      <green>136</green>
+      <blue>204</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>NavigationColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>239</red>
+      <green>245</green>
+      <blue>247</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>AuxiliaryNavigationColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>236</red>
+      <green>236</green>
+      <blue>236</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ImportantColor</name>
+    <color xsi:type="core:ColorDef">
+      <red>250</red>
+      <green>195</green>
+      <blue>113</blue>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.QuickTacklesBackground</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.QuickTacklesBackground</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.SelectStandardPeriodBackgroundButtons</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.SelectStandardPeriodBackgroundButtons</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.GroupOptionsReportsColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.GroupOptionsReportsColor</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.ResultsBackgroundGroups</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ResultsBackgroundGroups</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.BackgroundGoingFields</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.BackgroundGoingFields</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.ColorSectionPanelsFunctions</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ColorSectionPanelsFunctions</color>
+    </color>
+  </items>
+</style:Style>

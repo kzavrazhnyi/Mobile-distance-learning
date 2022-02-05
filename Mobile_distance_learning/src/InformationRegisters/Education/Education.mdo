@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7e6c36bb-34b1-4799-a2c0-b7f663659496">
+  <producedTypes>
+    <selectionType typeId="8d00c32b-a51a-495b-8449-9e873a1b7c38" valueTypeId="5b1ed97e-423e-4075-8167-cf40f2ef183d"/>
+    <listType typeId="3d4f0e66-6121-4257-b8a9-1a545a3f4a3c" valueTypeId="8b1e8cb2-060e-4a42-975b-c66e7ab9cd9b"/>
+    <managerType typeId="1f9b77bc-5c27-4594-ae07-93c564bc33f1" valueTypeId="04750abd-2340-4800-9855-b5cadd4c6280"/>
+    <recordSetType typeId="ae35c70e-b3d8-4571-8c43-0aa9b078d23b" valueTypeId="f82a71a6-ccf1-4028-8019-86a31ff2a82e"/>
+    <recordKeyType typeId="21ccdb60-af9c-4dcd-854f-17bbf278c02f" valueTypeId="6dc82593-baa4-4711-aa90-836b6abeff78"/>
+    <recordType typeId="8e12bfbd-5a6a-477c-b7d0-def052477c69" valueTypeId="b2cf6b16-8e9d-41d7-a727-ebe7306b0bde"/>
+    <recordManagerType typeId="58fe8398-1970-4da2-8ede-2985b85c17bc" valueTypeId="5074f7e1-1418-45b6-96fc-72dcbe47a525"/>
+  </producedTypes>
+  <name>Education</name>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="5fa9339c-25c2-4121-9a99-f4ed5c891292">
+    <name>StageOfLearning</name>
+    <type>
+      <types>EnumRef.LearningSteps</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="2566ad60-12d7-40af-92a8-3a4995c7cedb">
+    <name>File</name>
+    <type>
+      <types>CatalogRef.Files</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

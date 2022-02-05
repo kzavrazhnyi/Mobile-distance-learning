@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4e4eacdc-5175-4f44-93c4-2e11e44f450e">
+  <producedTypes>
+    <objectType typeId="661b5c35-3fb4-480b-964f-928441a3bc8e" valueTypeId="281b0f7e-1999-45a9-8a99-9aa776c0c5de"/>
+    <refType typeId="6c6b5e82-3c37-468b-9e18-67e4eb064fb8" valueTypeId="601017c3-3f73-400e-8876-ac74365179e6"/>
+    <selectionType typeId="68e9e2d4-2d06-4150-92a0-dcac066d6d5d" valueTypeId="57a62409-28ff-4cd0-8fcc-02392218afc7"/>
+    <listType typeId="5c6d5336-18ce-4790-bd0d-de99b7ad8b73" valueTypeId="f311bf72-0432-4ce9-84fb-90ae76de8776"/>
+    <managerType typeId="26170977-b2b0-4e5b-b326-978570a43d49" valueTypeId="83323192-f4ba-4179-b481-29d3b37d95dc"/>
+  </producedTypes>
+  <name>Levels</name>
+  <synonym>
+    <key>en</key>
+    <value>Levels</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Уровни</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Levels.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <hierarchical>true</hierarchical>
+  <limitLevelCount>true</limitLevelCount>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <descriptionLength>50</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

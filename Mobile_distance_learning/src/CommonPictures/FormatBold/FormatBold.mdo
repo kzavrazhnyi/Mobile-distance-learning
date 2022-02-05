@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="74f096e8-43b8-49a1-a08e-81590637d906">
+  <name>FormatBold</name>
+  <synonym>
+    <key>en</key>
+    <value>Format bold</value>
+  </synonym>
+</mdclass:CommonPicture>

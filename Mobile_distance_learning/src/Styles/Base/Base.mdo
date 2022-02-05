@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Style xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="13b53a27-bed4-4fc0-834b-b02fd972197a">
+  <name>Base</name>
+  <synonym>
+    <key>en</key>
+    <value>Base</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Основний</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Основной</value>
+  </synonym>
+</mdclass:Style>

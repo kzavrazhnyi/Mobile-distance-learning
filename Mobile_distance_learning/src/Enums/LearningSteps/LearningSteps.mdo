@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6f7ed9ef-8b5d-4c37-b621-9a61d535346a">
+  <producedTypes>
+    <refType typeId="40ae09fe-36f7-4579-b82e-8cfe8380c4df" valueTypeId="da41b500-594a-4ceb-9908-1d975acb482f"/>
+    <listType typeId="59216af3-4674-4e12-8642-60159a0b411a" valueTypeId="1ff67554-90cd-4ed0-898f-00f9ec993dc4"/>
+    <managerType typeId="6fcf9ab2-11af-492c-ba91-56b9cc736044" valueTypeId="f3f985fc-f55e-4bf7-b574-d70644b114a1"/>
+  </producedTypes>
+  <name>LearningSteps</name>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="2709d26c-ac31-4b94-8203-0e6555d163d5">
+    <name>Today</name>
+  </enumValues>
+  <enumValues uuid="e5ca5864-4d0e-487f-88b0-bd5337979b1d">
+    <name>Tomorrow</name>
+  </enumValues>
+  <enumValues uuid="72fc4f22-dd62-4a91-9171-e9a87094726e">
+    <name>Week</name>
+  </enumValues>
+  <enumValues uuid="41958354-9083-45c4-918b-38ac8500aad0">
+    <name>Month</name>
+  </enumValues>
+  <enumValues uuid="3825dea3-2af6-4d0b-a0cf-01b275441c3c">
+    <name>Repeat</name>
+  </enumValues>
+</mdclass:Enum>

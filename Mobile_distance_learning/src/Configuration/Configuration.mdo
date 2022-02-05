@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="538d247c-45de-47b4-898d-366f68bb7552">
+  <name>MobileDistanceLearning</name>
+  <synonym>
+    <key>en</key>
+    <value>Mobile distance learning</value>
+  </synonym>
+  <synonym>
+    <key>de</key>
+    <value>Mein nächstes Level</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Мой следующий уровень</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Мій наступний рівень</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4a1f3459-afed-4909-8f2f-4d37b92d3393"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="646010f5-30f7-4c9a-882e-34871fd3e85b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="61ce6be5-8630-4a7b-81d2-09ff4c0d5229"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="c174a52f-c01a-43a0-95fb-a43edb9f89ba"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6ba34843-0245-420c-a9ec-009eca4040b6"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="48fff44f-af1c-4103-8376-2a4bd38c3032"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="1cc4d454-05fc-47a7-bbe7-fc64ab28a0ca"/>
+  <configurationExtensionCompatibilityMode>8.3.20</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usePurposes>MobileDevice</usePurposes>
+  <vendor>Kostiantyn Zavrazhnyi</vendor>
+  <version>1.0.1</version>
+  <updateCatalogAddress>https://github.com/kzavrazhnyi/Mobile-distance-learning</updateCatalogAddress>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultStyle>Style.Base</defaultStyle>
+  <defaultLanguage>Language.English</defaultLanguage>
+  <briefInformation>
+    <key>en</key>
+    <value>Mobile distance learning</value>
+  </briefInformation>
+  <briefInformation>
+    <key>uk</key>
+    <value>Мій наступний рівень</value>
+  </briefInformation>
+  <briefInformation>
+    <key>ru</key>
+    <value>Мой следующий уровень</value>
+  </briefInformation>
+  <detailedInformation>
+    <key>en</key>
+    <value>mobile app: My next level; 
+platform https://1c-dn.com/download-trial/; 
+development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
+  </detailedInformation>
+  <detailedInformation>
+    <key>de</key>
+    <value>mobile app: My next level; 
+platform https://1c-dn.com/download-trial/; 
+development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
+  </detailedInformation>
+  <detailedInformation>
+    <key>ru</key>
+    <value>mobile app: My next level; 
+platform https://1c-dn.com/download-trial/; 
+development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
+  </detailedInformation>
+  <detailedInformation>
+    <key>uk</key>
+    <value>mobile app: My next level; 
+platform https://1c-dn.com/download-trial/; 
+development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
+  </detailedInformation>
+  <logo/>
+  <copyright>
+    <key>en</key>
+    <value>Copyright © Kostiantyn Zavrazhnyi (ZKY, AXIONT LLC), 2022. All rights reserved</value>
+  </copyright>
+  <copyright>
+    <key>de</key>
+    <value>Copyright © Kostiantyn Zavrazhnyi (ZKY, AXIONT LLC), 2021. All rights reserved</value>
+  </copyright>
+  <copyright>
+    <key>ru</key>
+    <value>Copyright © Kostiantyn Zavrazhnyi (ZKY, AXIONT LLC), 2021. All rights reserved</value>
+  </copyright>
+  <copyright>
+    <key>uk</key>
+    <value>Copyright © Kostiantyn Zavrazhnyi (ZKY, AXIONT LLC), 2021. All rights reserved</value>
+  </copyright>
+  <vendorInformationAddress>
+    <key>en</key>
+    <value>https://www.youtube.com/c/KostiantynZavrazhnyi</value>
+  </vendorInformationAddress>
+  <vendorInformationAddress>
+    <key>de</key>
+    <value>https://www.youtube.com/c/KostiantynZavrazhnyi</value>
+  </vendorInformationAddress>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>https://www.youtube.com/c/KostiantynZavrazhnyi</value>
+  </vendorInformationAddress>
+  <vendorInformationAddress>
+    <key>uk</key>
+    <value>https://www.youtube.com/c/KostiantynZavrazhnyi</value>
+  </vendorInformationAddress>
+  <configurationInformationAddress>
+    <key>en</key>
+    <value>https://github.com/kzavrazhnyi/edt</value>
+  </configurationInformationAddress>
+  <configurationInformationAddress>
+    <key>de</key>
+    <value>https://github.com/kzavrazhnyi/edt</value>
+  </configurationInformationAddress>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/kzavrazhnyi/edt</value>
+  </configurationInformationAddress>
+  <configurationInformationAddress>
+    <key>uk</key>
+    <value>https://github.com/kzavrazhnyi/edt</value>
+  </configurationInformationAddress>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.18</compatibilityMode>
+  <languages uuid="632b7b0f-d243-452e-a9ae-3dfabc529958">
+    <name>English</name>
+    <synonym>
+      <key>ru</key>
+      <value>English</value>
+    </synonym>
+    <languageCode>en</languageCode>
+  </languages>
+  <languages uuid="237fd55f-0a13-4377-95da-9a858dd28abe">
+    <name>Russian</name>
+    <synonym>
+      <key>en</key>
+      <value>Russian</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <languages uuid="18171b5d-795b-4a7b-840e-df8b3e9da4a9">
+    <name>Ukrainian</name>
+    <synonym>
+      <key>en</key>
+      <value>Ukrainian</value>
+    </synonym>
+    <languageCode>uk</languageCode>
+  </languages>
+  <languages uuid="571ab5d1-eaa7-4898-bdaf-54989b16cff6">
+    <name>German</name>
+    <synonym>
+      <key>en</key>
+      <value>German</value>
+    </synonym>
+    <languageCode>de</languageCode>
+  </languages>
+  <styleItems>StyleItem.QuickTacklesBackground</styleItems>
+  <styleItems>StyleItem.SelectStandardPeriodBackgroundButtons</styleItems>
+  <styleItems>StyleItem.GroupOptionsReportsColor</styleItems>
+  <styleItems>StyleItem.ResultsBackgroundGroups</styleItems>
+  <styleItems>StyleItem.BackgroundGoingFields</styleItems>
+  <styleItems>StyleItem.ColorSectionPanelsFunctions</styleItems>
+  <styles>Style.Base</styles>
+  <commonPictures>CommonPicture.FormatChangeFont</commonPictures>
+  <commonPictures>CommonPicture.FormatBold</commonPictures>
+  <commonPictures>CommonPicture.FormatCenterAlign</commonPictures>
+  <commonModules>CommonModule.SharedModuleOnServer</commonModules>
+  <constants>Constant.InfoBaseID</constants>
+  <commonForms>CommonForm.MainForm</commonForms>
+  <catalogs>Catalog.Levels</catalogs>
+  <catalogs>Catalog.Files</catalogs>
+  <catalogs>Catalog.Masters</catalogs>
+  <enums>Enum.GeneralSettings</enums>
+  <enums>Enum.LearningSteps</enums>
+  <informationRegisters>InformationRegister.FileStorage</informationRegisters>
+  <informationRegisters>InformationRegister.Settings</informationRegisters>
+  <informationRegisters>InformationRegister.Education</informationRegisters>
+  <informationRegisters>InformationRegister.MasterStorage</informationRegisters>
+</mdclass:Configuration>

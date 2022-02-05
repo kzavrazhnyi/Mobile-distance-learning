@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9120cdf5-6798-4476-9f87-503c998ca2b8">
+  <producedTypes>
+    <selectionType typeId="8e008759-457b-4565-a484-91182ea1f63c" valueTypeId="ef5e8d18-da5e-4cec-b617-1b954943c404"/>
+    <listType typeId="fa2daf09-bc8c-4699-bb2a-7aea6b2bab87" valueTypeId="9ffa7c58-c15d-4835-8654-e40fac4030ba"/>
+    <managerType typeId="0b9b14e3-d0b2-45e3-a4b7-5992db3619f0" valueTypeId="0805971d-0c5a-4bb8-9c41-3ddb55635d0f"/>
+    <recordSetType typeId="20fbd65a-bad7-4d62-a890-4823066fe91d" valueTypeId="7b842744-4ebc-46af-9364-59093cbe8e97"/>
+    <recordKeyType typeId="e27c4d29-0236-4f81-a77a-f08836f2939b" valueTypeId="ba6dc2a7-fd9f-4b9f-a5dc-43a8cb9fd843"/>
+    <recordType typeId="df1fb302-6aa4-4b22-99e3-63392d0d59e1" valueTypeId="f50a079f-bc73-4b5b-ad16-4845655ff04b"/>
+    <recordManagerType typeId="bff41ee5-8a44-481a-9907-46b2acb42794" valueTypeId="42deec83-722a-4f46-b69e-032e93a9e1fe"/>
+  </producedTypes>
+  <name>MasterStorage</name>
+  <synonym>
+    <key>en</key>
+    <value>Master storage</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="7f980719-a2fa-4f0a-87cc-a068c6f7b53e">
+    <name>Password</name>
+    <synonym>
+      <key>en</key>
+      <value>Password</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="43ba485b-9961-404e-abe2-40be9f80e030">
+    <name>Master</name>
+    <synonym>
+      <key>en</key>
+      <value>Master</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Masters</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="0f2876b9-b703-4939-ac10-41e29f7b613a">
+    <name>Level</name>
+    <synonym>
+      <key>en</key>
+      <value>Level</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Levels</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

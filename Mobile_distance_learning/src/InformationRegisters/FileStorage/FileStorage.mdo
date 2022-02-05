@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ee412273-012e-44af-b7be-bab722582fca">
+  <producedTypes>
+    <selectionType typeId="9c59ca34-79e0-4c85-91ed-06e2aeeb8d41" valueTypeId="7b559fb0-9561-4d27-a742-d887cf6f4954"/>
+    <listType typeId="f83ceb92-73ca-4d7e-9386-5b93a1e76eac" valueTypeId="a8b817e0-2016-4aab-a714-13652d468164"/>
+    <managerType typeId="37680198-c265-443c-a538-a4da6ad34736" valueTypeId="83f4a046-0c67-4359-af89-9c622d9ca8b5"/>
+    <recordSetType typeId="112542f0-045b-4ccd-a3d7-0273856649af" valueTypeId="4ad8cf94-1f1c-4f1a-9795-1a2f2b003c0d"/>
+    <recordKeyType typeId="49dda221-3400-4b3b-8cab-6d9c4bfc8cfe" valueTypeId="e26e7411-3548-4eea-9011-f7c5349e633d"/>
+    <recordType typeId="a65a3648-dc39-4c10-ac67-86c3d705d73f" valueTypeId="d90858d5-e741-43ce-8864-e2cdf7486b24"/>
+    <recordManagerType typeId="e6fabf77-114b-4fb5-b4d6-9a467013a97c" valueTypeId="9ced0220-a141-49f0-b3b0-4cae22bf20c8"/>
+  </producedTypes>
+  <name>FileStorage</name>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="a947a0e2-2a6b-49d3-911f-e0b97f08f5e8">
+    <name>Storage</name>
+    <type>
+      <types>ValueStorage</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="b4f3fa9d-1506-4f8d-95c7-c5d06d8bd18b">
+    <name>TextHTML</name>
+    <synonym>
+      <key>en</key>
+      <value>Text HTML</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="f6021af0-1008-4a95-b398-46c5eaa100d6">
+    <name>File</name>
+    <type>
+      <types>CatalogRef.Files</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

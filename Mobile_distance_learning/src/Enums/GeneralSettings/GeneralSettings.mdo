@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b7d6bce8-446d-41ea-8e07-1dec7822518f">
+  <producedTypes>
+    <refType typeId="3ad1448c-76b2-4c2f-b617-0e1bec521920" valueTypeId="756ecf00-ee34-4992-9d33-0232a636832a"/>
+    <listType typeId="be6eaf79-3428-4b5a-8a2d-0690caf638f0" valueTypeId="e4e86e02-c5ba-4c91-af2c-bdbb0998f626"/>
+    <managerType typeId="315cf860-c604-4a86-9407-785463be7518" valueTypeId="e43360b2-dc84-442d-861f-7efea47e3226"/>
+  </producedTypes>
+  <name>GeneralSettings</name>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="a3624d9d-14d8-4850-8f71-d050aa05e7e6">
+    <name>CurrentLevel</name>
+  </enumValues>
+  <enumValues uuid="76910f1a-b8cd-439e-a8bd-9b4de80deed4">
+    <name>CurrentMaster</name>
+  </enumValues>
+  <enumValues uuid="0049a850-55eb-48e8-9e87-96e87e8affbd">
+    <name>NotRefreshLevel</name>
+    <synonym>
+      <key>en</key>
+      <value>Not refresh level</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="d4b2701c-d13b-4fac-a2d3-17bffa2ef3ca">
+    <name>CurrentExt</name>
+    <synonym>
+      <key>ru</key>
+      <value>Current extension</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

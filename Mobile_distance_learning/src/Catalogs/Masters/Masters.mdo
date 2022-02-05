@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6702827e-15a0-46f1-8c86-484b92874397">
+  <producedTypes>
+    <objectType typeId="0863d1f4-23f0-4771-983c-daf1b62b3ad1" valueTypeId="f264b206-9998-454f-9c38-6c7ac0ed34d3"/>
+    <refType typeId="456588dd-f095-4442-a1ad-ff3961c6a481" valueTypeId="b8b9508a-3e49-409e-b75c-03561c62b80d"/>
+    <selectionType typeId="12dee422-78fb-491f-90b4-9fb28521115c" valueTypeId="27084b58-693d-4dd6-89c1-601a8eca5158"/>
+    <listType typeId="7a3d1c66-ceb3-4fab-a171-6921e66b4ce8" valueTypeId="8b3129c3-493f-4163-85f7-c589fbb49fc7"/>
+    <managerType typeId="c697ab11-66fd-485a-a298-4803527e66af" valueTypeId="4992c9a6-aa3c-4aaa-8c62-bf1fa1a07db3"/>
+  </producedTypes>
+  <name>Masters</name>
+  <synonym>
+    <key>en</key>
+    <value>Masters</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Учителя</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Masters.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <descriptionLength>50</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

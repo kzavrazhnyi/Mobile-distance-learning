@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e55eca36-7ee1-481d-b90c-043e41ba3fae">
+  <producedTypes>
+    <selectionType typeId="4cb239b6-5227-4e1d-b17b-84a167fac5fd" valueTypeId="b09d00cb-6c6b-42f4-8903-d41dc5e68583"/>
+    <listType typeId="80ba4c0a-6e45-4245-a552-49464d4132ee" valueTypeId="d75b9ebc-3fe9-4d9c-b7d2-e2741f851bf2"/>
+    <managerType typeId="83dcdea3-0d54-4e40-ae20-82426d428e9b" valueTypeId="d71b368a-da42-46b6-acc7-ab8d5237b5b9"/>
+    <recordSetType typeId="24250c25-fd6f-4b5c-8af8-a0d0e3f90301" valueTypeId="16c70504-0d86-4f55-84a4-d9b5551c476f"/>
+    <recordKeyType typeId="a104b8d9-e47b-475d-89d8-2945edeb360f" valueTypeId="c5629ae9-8899-4315-b96b-a0451525a354"/>
+    <recordType typeId="cad33dbc-2fc5-495e-acb9-5b323c079a5a" valueTypeId="cb22c01f-77f1-4ad2-b1a5-1c67cf1b5d47"/>
+    <recordManagerType typeId="f1dc6676-8bd6-4e5d-9233-921b56ef9554" valueTypeId="dabc7433-aedc-4c50-a2a3-039673581ff7"/>
+  </producedTypes>
+  <name>Settings</name>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="78e8ba85-3a01-4723-b602-08710b7faf05">
+    <name>Level</name>
+    <type>
+      <types>CatalogRef.Levels</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="22d83268-5a55-4790-bc26-4d3c0ffd1a04">
+    <name>Author</name>
+    <type>
+      <types>CatalogRef.Masters</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="fbd08c74-dfb9-4354-a382-75e2e4540007">
+    <name>StringValue</name>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="68291f99-93a7-43f4-87a8-17c1a290930b">
+    <name>BooleanValue</name>
+    <synonym>
+      <key>en</key>
+      <value>Boolean value</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="a290ff45-e222-4d29-b63c-5e4e206d1fa9">
+    <name>Setting</name>
+    <type>
+      <types>EnumRef.GeneralSettings</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>
