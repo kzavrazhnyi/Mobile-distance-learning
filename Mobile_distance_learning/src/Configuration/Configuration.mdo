@@ -81,35 +81,35 @@ development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tool
   <logo/>
   <copyright>
     <key>en</key>
-    <value>Copyright © Kostiantyn Zavrazhnyi (ZKY, AXIONT LLC), 2022. All rights reserved</value>
+    <value>Copyright © Kostiantyn Zavrazhnyi, 2021. All rights reserved</value>
   </copyright>
   <copyright>
     <key>de</key>
-    <value>Copyright © Kostiantyn Zavrazhnyi (ZKY, AXIONT LLC), 2021. All rights reserved</value>
+    <value>Copyright © Kostiantyn Zavrazhnyi, 2021. All rights reserved</value>
   </copyright>
   <copyright>
     <key>ru</key>
-    <value>Copyright © Kostiantyn Zavrazhnyi (ZKY, AXIONT LLC), 2021. All rights reserved</value>
+    <value>Copyright © Kostiantyn Zavrazhnyi, 2021. All rights reserved</value>
   </copyright>
   <copyright>
     <key>uk</key>
-    <value>Copyright © Kostiantyn Zavrazhnyi (ZKY, AXIONT LLC), 2021. All rights reserved</value>
+    <value>Copyright © Kostiantyn Zavrazhnyi, 2021. All rights reserved</value>
   </copyright>
   <vendorInformationAddress>
     <key>en</key>
-    <value>https://www.youtube.com/c/KostiantynZavrazhnyi</value>
+    <value>https://www.youtube.com/KostiantynZavrazhnyi</value>
   </vendorInformationAddress>
   <vendorInformationAddress>
     <key>de</key>
-    <value>https://www.youtube.com/c/KostiantynZavrazhnyi</value>
+    <value>https://www.youtube.com/KostiantynZavrazhnyi</value>
   </vendorInformationAddress>
   <vendorInformationAddress>
     <key>ru</key>
-    <value>https://www.youtube.com/c/KostiantynZavrazhnyi</value>
+    <value>https://www.youtube.com/KostiantynZavrazhnyi</value>
   </vendorInformationAddress>
   <vendorInformationAddress>
     <key>uk</key>
-    <value>https://www.youtube.com/c/KostiantynZavrazhnyi</value>
+    <value>https://www.youtube.com/KostiantynZavrazhnyi</value>
   </vendorInformationAddress>
   <configurationInformationAddress>
     <key>en</key>
@@ -131,7 +131,7 @@ development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tool
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <compatibilityMode>8.3.18</compatibilityMode>
+  <compatibilityMode>8.3.19</compatibilityMode>
   <languages uuid="632b7b0f-d243-452e-a9ae-3dfabc529958">
     <name>English</name>
     <synonym>
