@@ -57,7 +57,6 @@
   <detailedInformation>
     <key>en</key>
     <value>mobile app: Mobile distance learning; 
-platform https://1c-dn.com/download-trial/; 
 development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
   </detailedInformation>
   <detailedInformation>
@@ -68,13 +67,11 @@ development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tool
   <detailedInformation>
     <key>ru</key>
     <value>mobile app: Mobile distance learning; 
-platform https://1c-dn.com/download-trial/; 
 development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
   </detailedInformation>
   <detailedInformation>
     <key>uk</key>
-    <value>mobile app: Мобільне дистанційне навчання; 
-platform https://1c-dn.com/download-trial/; 
+    <value>mobile app: Мобільне дистанційне навчання;
 development tools https://1c-dn.com/1c_enterprise/1c_enterprise_development_tools/</value>
   </detailedInformation>
   <logo/>
